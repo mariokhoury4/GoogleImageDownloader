@@ -4,6 +4,7 @@ This repository allows you to download more than 200 images from google with a c
 ## **Prerequisites**   
 ---
 * Python 3    
+* Download ChromeDriver
 
 ### **How to check for prerequisites**  
 ---
@@ -17,6 +18,7 @@ This repository allows you to download more than 200 images from google with a c
 
 ### **How to edit the words**
 * Inside the python file, you can change the images you want by changing the variable ```URL``` with your custom link and it will download more than 200 images
+* Change the Path of ChromeDriver
 
 ### **Acknowledgment**  
 ---
