@@ -16,7 +16,7 @@ This repository allows you to download more than 200 images from google with a c
 * You can start the game by double clicking on the .py file or   
 * You can start the game by editing the file and running it from an editor
 
-### **How to edit the words**
+### **How to edit the search**
 * Inside the python file, you can change the images you want by changing the variable ```URL``` with your custom link and it will download more than 200 images
 * Change the Path of ChromeDriver
 
